@@ -1,15 +1,15 @@
-# How to install WordPress
+ # 워드프레스 설치 방법
 
-WordPress is well-known for its ease of installation. Under most circumstances, installing WordPress is a very simple process and takes less than five minutes to complete. [Many web hosts](#) now offer [tools (e.g. Fantastico) to automatically install WordPress](https://wordpress.org/documentation/article/automated-installation/) for you. However, if you wish to install WordPress yourself, the following guide will help.
+워드프레스는 설치가 용이한 것으로 잘 알려져 있습니다. 대부분의 상황에서 워드프레스를 설치하는 것은 매우 간단한 프로세스이며 완료하는 데 5분도 채 걸리지 않습니다. [많은 웹 호스트](#) 이제 [도구(예:)를 제공합니다. Fantastico)를 사용하여 자동으로 워드프레스를 설치](https://wordpress.org/documentation/article/automated-installation/)합니다. 단, 워드프레스를 직접 설치하고자 하는 경우 다음의 가이드가 도움이 될 것입니다.
 
-## Things to Know Before Installing WordPress
+ ## 워드프레스 설치 전 알아두어야 할 사항
 
-Before you begin the install, there are a few things you need to have and do. Refer the article [Before You Install](https://developer.wordpress.org/advanced-administration/before-install/).
-If you need multiple WordPress instances, refer [Installing Multiple WordPress Instances.](https://developer.wordpress.org/advanced-administration/before-install/multiple-instances/)
+설치를 시작하기 전에 몇 가지 필요한 것과 해야 할 일이 있습니다. 기사 [Before You install](https://developer.wordpress.org/advanced-administration/before-install/) 참조 번호로 제공됩니다.
+여러 워드프레스 인스턴스가 필요한 경우 [여러 워드프레스 인스턴스 설치.](https://developer.wordpress.org/advanced-administration/before-install/multiple-instances/)를 참조하십시오.
 
-## Basic Instructions
+ ## 기본 지침
 
-Here's the quick version of the instructions for those who are already comfortable with performing such installations. More [detailed instructions](#detailed-instructions) follow.
+이미 이러한 설치 작업을 수행하는 데 익숙한 사람들을 위한 지침의 빠른 버전입니다. 더보기 [자세 지시](#세부 지시)가 뒤따릅니다.
 
 1. Download and unzip the WordPress package if you haven't already.
 2. Create a database for WordPress on your web server, as well as a [MySQL](https://wordpress.org/documentation/article/glossary/#mysql) (or MariaDB) user who has all privileges for accessing and modifying it.
